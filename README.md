@@ -1,4 +1,4 @@
-[<img src="assets/ctrl-alt-delegate-wordmark.png" width="480" alt="Ctrl Alt Delegate">](https://hertect.com/ctrl-alt-delegate)
+[<img src="docs/brand/ctrl-alt-delegate-wordmark.png" width="480" alt="Ctrl Alt Delegate">](https://hertect.com/ctrl-alt-delegate)
 
 
 **Your AI tools know your version. Ctrl Alt Delegate knows everyone's.**
